@@ -1,0 +1,786 @@
+{
+  "ccecc872-83f9-4142-8113-a0d147b347a7": {
+    "id": "ccecc872-83f9-4142-8113-a0d147b347a7",
+    "user_id": "test-user-123",
+    "user_email": "tester@example.com",
+    "destination": "Paris",
+    "starting_city": "London",
+    "duration_days": 3,
+    "departure_date": "2026-11-04",
+    "return_date": "2026-11-06",
+    "total_budget": 1500.0,
+    "currency": "EUR",
+    "hero_image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1600&q=80",
+    "itinerary_data": {
+      "id": "ccecc872-83f9-4142-8113-a0d147b347a7",
+      "destination": "Paris",
+      "starting_city": "London",
+      "duration_days": 3,
+      "trip_summary": "A personalized 3-day solo journey across Paris, curated with a focus on Historical places, Food and Fine Dining dining experiences.",
+      "hero_image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1600&q=80",
+      "preferences": {
+        "destination": "Paris",
+        "starting_city": "London",
+        "departure_date": "2026-11-04",
+        "return_date": "2026-11-06",
+        "travelers_count": 1,
+        "travel_type": "Solo",
+        "total_budget": 1500.0,
+        "currency": "EUR",
+        "travel_interests": [
+          "Historical places",
+          "Food"
+        ],
+        "accommodation_preference": "Boutique Hotels",
+        "transportation_preference": "Walking",
+        "food_preference": "Fine Dining",
+        "pace_preference": "Balanced"
+      },
+      "days": [
+        {
+          "day_number": 1,
+          "date": "2026-11-04",
+          "day_title": "Arrival, City Center Orientation & Welcome Flavors",
+          "summary": "Enjoy a thoughtfully curated day exploring Paris's highlights, matching your Balanced pace and Fine Dining taste.",
+          "morning": [
+            {
+              "time_slot": "09:00 AM - 12:00 PM",
+              "title": "Eiffel Tower & Champ de Mars",
+              "description": "Ascend the iconic Iron Lady and relax with a picnic on the expansive lawns below.",
+              "location_name": "Eiffel Tower",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eiffel+Tower,+Paris",
+              "estimated_cost": 30.0,
+              "category": "Sightseeing",
+              "travel_tip": "Book summit elevator tickets exactly 60 days early."
+            }
+          ],
+          "afternoon": [
+            {
+              "time_slot": "02:00 PM - 05:00 PM",
+              "title": "Louvre Museum & Tuileries Garden",
+              "description": "Admire the Mona Lisa, Winged Victory, and Venus de Milo before strolling royal palace gardens.",
+              "location_name": "Mus\u00e9e du Louvre",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mus\u00e9e+du+Louvre,+Paris",
+              "estimated_cost": 22.0,
+              "category": "Art & Culture",
+              "travel_tip": "Enter via the Carrousel du Louvre underground mall entrance for shorter lines."
+            }
+          ],
+          "evening": [
+            {
+              "time_slot": "06:30 PM - 09:30 PM",
+              "title": "Montmartre & Sacr\u00e9-C\u0153ur Basilica",
+              "description": "Wander romantic cobblestone alleys, artist squares, and witness panoramic sunset views over Paris.",
+              "location_name": "Sacr\u00e9-C\u0153ur Basilica",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sacr\u00e9-C\u0153ur+Basilica,+Paris",
+              "estimated_cost": 0.0,
+              "category": "Culture",
+              "travel_tip": "Watch out for wristband hawkers around the bottom steps; take the funicular."
+            }
+          ],
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "restaurant_name": "Caf\u00e9 Paris Morning Bakery",
+              "cuisine_type": "Artisan Pastries & Fresh Brewed Coffee",
+              "description": "Cozy breakfast spot famous for freshly baked breads and local morning delicacies.",
+              "estimated_cost_per_person": 12.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best+Breakfast+Cafe,+Paris"
+            },
+            {
+              "meal_type": "Lunch",
+              "restaurant_name": "Paris Traditional Kitchen",
+              "cuisine_type": "Fine Dining",
+              "description": "Popular spot curated specifically for Fine Dining lovers with rave local reviews.",
+              "estimated_cost_per_person": 22.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Lunch+Restaurant,+Paris"
+            },
+            {
+              "meal_type": "Dinner",
+              "restaurant_name": "The Heritage Terrace Paris",
+              "cuisine_type": "Regional Gourmet & Wine Pairing",
+              "description": "Atmospheric dinner setting serving farm-to-table seasonal specials and house wines.",
+              "estimated_cost_per_person": 38.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dinner+Dining+Terrace,+Paris"
+            }
+          ],
+          "daily_budget_estimate": 124.0
+        },
+        {
+          "day_number": 2,
+          "date": "2026-11-05",
+          "day_title": "Iconic Landmarks, Ancient Heritage & Scenic Lookouts",
+          "summary": "Enjoy a thoughtfully curated day exploring Paris's highlights, matching your Balanced pace and Fine Dining taste.",
+          "morning": [
+            {
+              "time_slot": "09:00 AM - 12:00 PM",
+              "title": "Mus\u00e9e d'Orsay Impressionist Masterpieces",
+              "description": "Marvel at Monet, Van Gogh, and Degas housed in a magnificent Beaux-Arts railway station.",
+              "location_name": "Mus\u00e9e d'Orsay",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mus\u00e9e+d'Orsay,+Paris",
+              "estimated_cost": 16.0,
+              "category": "Art",
+              "travel_tip": "Stand behind the giant railway clock face on the top floor for an iconic silhouette photo."
+            }
+          ],
+          "afternoon": [
+            {
+              "time_slot": "02:00 PM - 05:00 PM",
+              "title": "Seine River Twilight Cruise",
+              "description": "Glide past illuminated Gothic cathedrals and golden bridges aboard a scenic river boat.",
+              "location_name": "Bateaux Mouches Port",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bateaux+Mouches+Port,+Paris",
+              "estimated_cost": 18.0,
+              "category": "Relaxation",
+              "travel_tip": "Hop on a boat that departs 30 minutes before dusk to catch golden hour & evening illumination."
+            }
+          ],
+          "evening": [
+            {
+              "time_slot": "06:30 PM - 09:30 PM",
+              "title": "Le Marais Historic District & Bakeries",
+              "description": "Explore medieval architecture, boutique fashion, artisan falafel, and top French patisseries.",
+              "location_name": "Place des Vosges",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+des+Vosges,+Paris",
+              "estimated_cost": 12.0,
+              "category": "Food & Culture",
+              "travel_tip": "Stop at L'As du Fallafel for lunch; the line moves very fast."
+            }
+          ],
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "restaurant_name": "Caf\u00e9 Paris Morning Bakery",
+              "cuisine_type": "Artisan Pastries & Fresh Brewed Coffee",
+              "description": "Cozy breakfast spot famous for freshly baked breads and local morning delicacies.",
+              "estimated_cost_per_person": 12.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best+Breakfast+Cafe,+Paris"
+            },
+            {
+              "meal_type": "Lunch",
+              "restaurant_name": "Paris Traditional Kitchen",
+              "cuisine_type": "Fine Dining",
+              "description": "Popular spot curated specifically for Fine Dining lovers with rave local reviews.",
+              "estimated_cost_per_person": 22.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Lunch+Restaurant,+Paris"
+            },
+            {
+              "meal_type": "Dinner",
+              "restaurant_name": "The Heritage Terrace Paris",
+              "cuisine_type": "Regional Gourmet & Wine Pairing",
+              "description": "Atmospheric dinner setting serving farm-to-table seasonal specials and house wines.",
+              "estimated_cost_per_person": 38.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dinner+Dining+Terrace,+Paris"
+            }
+          ],
+          "daily_budget_estimate": 118.0
+        },
+        {
+          "day_number": 3,
+          "date": "2026-11-06",
+          "day_title": "Cultural Deep Dive, Art Galleries & Local Gastronomy",
+          "summary": "Enjoy a thoughtfully curated day exploring Paris's highlights, matching your Balanced pace and Fine Dining taste.",
+          "morning": [
+            {
+              "time_slot": "09:00 AM - 12:00 PM",
+              "title": "Eiffel Tower & Champ de Mars",
+              "description": "Ascend the iconic Iron Lady and relax with a picnic on the expansive lawns below.",
+              "location_name": "Eiffel Tower",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eiffel+Tower,+Paris",
+              "estimated_cost": 30.0,
+              "category": "Sightseeing",
+              "travel_tip": "Book summit elevator tickets exactly 60 days early."
+            }
+          ],
+          "afternoon": [
+            {
+              "time_slot": "02:00 PM - 05:00 PM",
+              "title": "Louvre Museum & Tuileries Garden",
+              "description": "Admire the Mona Lisa, Winged Victory, and Venus de Milo before strolling royal palace gardens.",
+              "location_name": "Mus\u00e9e du Louvre",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mus\u00e9e+du+Louvre,+Paris",
+              "estimated_cost": 22.0,
+              "category": "Art & Culture",
+              "travel_tip": "Enter via the Carrousel du Louvre underground mall entrance for shorter lines."
+            }
+          ],
+          "evening": [
+            {
+              "time_slot": "06:30 PM - 09:30 PM",
+              "title": "Montmartre & Sacr\u00e9-C\u0153ur Basilica",
+              "description": "Wander romantic cobblestone alleys, artist squares, and witness panoramic sunset views over Paris.",
+              "location_name": "Sacr\u00e9-C\u0153ur Basilica",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sacr\u00e9-C\u0153ur+Basilica,+Paris",
+              "estimated_cost": 0.0,
+              "category": "Culture",
+              "travel_tip": "Watch out for wristband hawkers around the bottom steps; take the funicular."
+            }
+          ],
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "restaurant_name": "Caf\u00e9 Paris Morning Bakery",
+              "cuisine_type": "Artisan Pastries & Fresh Brewed Coffee",
+              "description": "Cozy breakfast spot famous for freshly baked breads and local morning delicacies.",
+              "estimated_cost_per_person": 12.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best+Breakfast+Cafe,+Paris"
+            },
+            {
+              "meal_type": "Lunch",
+              "restaurant_name": "Paris Traditional Kitchen",
+              "cuisine_type": "Fine Dining",
+              "description": "Popular spot curated specifically for Fine Dining lovers with rave local reviews.",
+              "estimated_cost_per_person": 22.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Lunch+Restaurant,+Paris"
+            },
+            {
+              "meal_type": "Dinner",
+              "restaurant_name": "The Heritage Terrace Paris",
+              "cuisine_type": "Regional Gourmet & Wine Pairing",
+              "description": "Atmospheric dinner setting serving farm-to-table seasonal specials and house wines.",
+              "estimated_cost_per_person": 38.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dinner+Dining+Terrace,+Paris"
+            }
+          ],
+          "daily_budget_estimate": 124.0
+        }
+      ],
+      "budget_breakdown": {
+        "currency": "EUR",
+        "total_budget": 1500.0,
+        "estimated_total_spent": 1269.6,
+        "remaining_balance": 230.4,
+        "categories": [
+          {
+            "category": "Accommodation",
+            "amount": 524.4,
+            "percentage": 38.0,
+            "notes": "Covers 3 nights in recommended Boutique Hotels."
+          },
+          {
+            "category": "Food & Dining",
+            "amount": 358.8,
+            "percentage": 26.0,
+            "notes": "3 meals daily for 1 traveler(s) based on Fine Dining."
+          },
+          {
+            "category": "Activities & Entry Tickets",
+            "amount": 248.4,
+            "percentage": 18.0,
+            "notes": "Admission to main monuments, guided experiences, and exhibits."
+          },
+          {
+            "category": "Local Transit",
+            "amount": 138.0,
+            "percentage": 10.0,
+            "notes": "Metro passes, short rideshares, and transfers (Walking)."
+          },
+          {
+            "category": "Emergency & Souvenir Buffer",
+            "amount": 230.4,
+            "percentage": 8.0,
+            "notes": "Reserved for unexpected expenses, luggage storage, and gifts."
+          }
+        ]
+      },
+      "accommodation_options": [
+        {
+          "name": "Paris Boutique Oasis & Suites",
+          "hotel_type": "Boutique Hotels",
+          "price_tier": "Mid-range",
+          "approx_price_per_night": 174.8,
+          "neighborhood": "Central Arts & Historic District",
+          "highlights": [
+            "Complimentary gourmet breakfast",
+            "Walking distance to metro & attractions",
+            "Rooftop terrace lounge",
+            "Free high-speed WiFi"
+          ],
+          "booking_advice": "Book at least 3 weeks prior to secure complimentary city-view upgrades.",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boutique+Hotel+Center,+Paris"
+        },
+        {
+          "name": "The Grand Heritage Hotel Paris",
+          "hotel_type": "Luxury Hotel & Spa",
+          "price_tier": "Luxury",
+          "approx_price_per_night": 279.68,
+          "neighborhood": "Old Town Royal Avenue",
+          "highlights": [
+            "Full service wellness spa",
+            "Michelin-rated on-site restaurant",
+            "Concierge chauffeur services",
+            "Panoramic suites"
+          ],
+          "booking_advice": "Request an upper-floor room away from street noise for the ultimate tranquil stay.",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Luxury+Hotel+Center,+Paris"
+        },
+        {
+          "name": "Urban Traveler Eco-Lodge & Pods",
+          "hotel_type": "Budget Modern Stays",
+          "price_tier": "Budget",
+          "approx_price_per_night": 96.14,
+          "neighborhood": "Station Transit Hub",
+          "highlights": [
+            "Co-working space",
+            "Modern luggage lockers",
+            "Self-service laundry",
+            "Social communal kitchen"
+          ],
+          "booking_advice": "Great cost-saving option for travelers prioritizing sightseeing over room size.",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hostel+Eco+Lodge,+Paris"
+        }
+      ],
+      "transportation_options": [
+        {
+          "mode": "City Metro & Subway Pass",
+          "description": "The most efficient way to navigate Paris. Reliable, frequent, and air-conditioned trains connecting all major attractions.",
+          "average_cost": "15 - 25 EUR for a multi-day unlimited pass",
+          "pro_tip": "Download the local transit mobile app to view real-time arrival countdowns and digital ticket scanning."
+        },
+        {
+          "mode": "Bicycle Sharing & Pedestrian Walkways",
+          "description": "Paris's core districts feature dedicated cycling lanes and scenic pedestrian avenues perfect for exploring at your own pace.",
+          "average_cost": "5 - 10 EUR per hour or daily bike rental",
+          "pro_tip": "Look for docked city bikes around public squares; check brake pads and tire pressure before unlocking."
+        },
+        {
+          "mode": "Licensed Taxis & App Rideshares",
+          "description": "Convenient for late evening returns or traveling with heavy luggage between airport/train station and your accommodation.",
+          "average_cost": "10 - 30 EUR per average downtown trip",
+          "pro_tip": "Always verify that the driver starts the official meter or book through authorized apps to prevent overcharging."
+        }
+      ],
+      "travel_tips": {
+        "weather_summary": "Pleasant seasonal temperatures expected in Paris. Mild breezes during evenings with sunny daytime conditions.",
+        "recommended_clothing": [
+          "Breathable moisture-wicking layers for daytime walking",
+          "Light jacket or cardigan for cooler evenings",
+          "Comfortable broken-in walking shoes or supportive sneakers",
+          "Modest attire (covering shoulders and knees) for religious and cultural sites"
+        ],
+        "cultural_etiquette": [
+          "Gaze respect when entering shrines, temples, or historic places of worship.",
+          "Tipping customs: Check your bill before leaving gratuity, as service charges are often included.",
+          "Always ask permission before photographing local market vendors or individual residents.",
+          "Keep voice volume moderate on public transit and quiet residential lanes."
+        ],
+        "safety_and_emergency": [
+          "Keep emergency contacts and embassy address saved offline on your phone.",
+          "Store passport and primary backup credit cards in the hotel room safe; carry digital copies.",
+          "Beware of unsolicited street petitions or distractions in busy tourist plazas.",
+          "Emergency Services Number: Inquire locally (dial 112 in Europe, 911 in North America, 110/119 in Japan)."
+        ],
+        "packing_checklist": [
+          "Universal travel power adapter with surge protection",
+          "Portable power bank (10,000+ mAh) for long sightseeing days",
+          "Refillable insulated water bottle",
+          "Small compact travel umbrella or lightweight rain poncho",
+          "Basic personal medical kit (band-aids, blister pads, pain relievers, allergy medication)"
+        ],
+        "best_apps": [
+          "Google Maps (offline area downloaded)",
+          "Google Translate (with offline camera lens download)",
+          "Local transit navigation app",
+          "XE Currency converter"
+        ]
+      },
+      "ai_generated": false,
+      "ai_provider": "Demo Mode (Realistic Fallback Engine)",
+      "demo_mode": true,
+      "created_at": "2026-10-30T10:25:49.892841"
+    },
+    "created_at": "2026-10-30T10:25:49.899493"
+  },
+  "359c4b10-41fb-48fa-9585-548ccf8a1230": {
+    "id": "359c4b10-41fb-48fa-9585-548ccf8a1230",
+    "user_id": "test-user-123",
+    "user_email": "tester@example.com",
+    "destination": "Paris",
+    "starting_city": "London",
+    "duration_days": 3,
+    "departure_date": "2026-11-04",
+    "return_date": "2026-11-06",
+    "total_budget": 1500.0,
+    "currency": "EUR",
+    "hero_image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1600&q=80",
+    "itinerary_data": {
+      "id": "359c4b10-41fb-48fa-9585-548ccf8a1230",
+      "destination": "Paris",
+      "starting_city": "London",
+      "duration_days": 3,
+      "trip_summary": "A personalized 3-day solo journey across Paris, curated with a focus on Historical places, Food and Fine Dining dining experiences.",
+      "hero_image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1600&q=80",
+      "preferences": {
+        "destination": "Paris",
+        "starting_city": "London",
+        "departure_date": "2026-11-04",
+        "return_date": "2026-11-06",
+        "travelers_count": 1,
+        "travel_type": "Solo",
+        "total_budget": 1500.0,
+        "currency": "EUR",
+        "travel_interests": [
+          "Historical places",
+          "Food"
+        ],
+        "accommodation_preference": "Boutique Hotels",
+        "transportation_preference": "Walking",
+        "food_preference": "Fine Dining",
+        "pace_preference": "Balanced"
+      },
+      "days": [
+        {
+          "day_number": 1,
+          "date": "2026-11-04",
+          "day_title": "Arrival, City Center Orientation & Welcome Flavors",
+          "summary": "Enjoy a thoughtfully curated day exploring Paris's highlights, matching your Balanced pace and Fine Dining taste.",
+          "morning": [
+            {
+              "time_slot": "09:00 AM - 12:00 PM",
+              "title": "Eiffel Tower & Champ de Mars",
+              "description": "Ascend the iconic Iron Lady and relax with a picnic on the expansive lawns below.",
+              "location_name": "Eiffel Tower",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eiffel+Tower,+Paris",
+              "estimated_cost": 30.0,
+              "category": "Sightseeing",
+              "travel_tip": "Book summit elevator tickets exactly 60 days early."
+            }
+          ],
+          "afternoon": [
+            {
+              "time_slot": "02:00 PM - 05:00 PM",
+              "title": "Louvre Museum & Tuileries Garden",
+              "description": "Admire the Mona Lisa, Winged Victory, and Venus de Milo before strolling royal palace gardens.",
+              "location_name": "Mus\u00e9e du Louvre",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mus\u00e9e+du+Louvre,+Paris",
+              "estimated_cost": 22.0,
+              "category": "Art & Culture",
+              "travel_tip": "Enter via the Carrousel du Louvre underground mall entrance for shorter lines."
+            }
+          ],
+          "evening": [
+            {
+              "time_slot": "06:30 PM - 09:30 PM",
+              "title": "Montmartre & Sacr\u00e9-C\u0153ur Basilica",
+              "description": "Wander romantic cobblestone alleys, artist squares, and witness panoramic sunset views over Paris.",
+              "location_name": "Sacr\u00e9-C\u0153ur Basilica",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sacr\u00e9-C\u0153ur+Basilica,+Paris",
+              "estimated_cost": 0.0,
+              "category": "Culture",
+              "travel_tip": "Watch out for wristband hawkers around the bottom steps; take the funicular."
+            }
+          ],
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "restaurant_name": "Caf\u00e9 Paris Morning Bakery",
+              "cuisine_type": "Artisan Pastries & Fresh Brewed Coffee",
+              "description": "Cozy breakfast spot famous for freshly baked breads and local morning delicacies.",
+              "estimated_cost_per_person": 12.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best+Breakfast+Cafe,+Paris"
+            },
+            {
+              "meal_type": "Lunch",
+              "restaurant_name": "Paris Traditional Kitchen",
+              "cuisine_type": "Fine Dining",
+              "description": "Popular spot curated specifically for Fine Dining lovers with rave local reviews.",
+              "estimated_cost_per_person": 22.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Lunch+Restaurant,+Paris"
+            },
+            {
+              "meal_type": "Dinner",
+              "restaurant_name": "The Heritage Terrace Paris",
+              "cuisine_type": "Regional Gourmet & Wine Pairing",
+              "description": "Atmospheric dinner setting serving farm-to-table seasonal specials and house wines.",
+              "estimated_cost_per_person": 38.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dinner+Dining+Terrace,+Paris"
+            }
+          ],
+          "daily_budget_estimate": 124.0
+        },
+        {
+          "day_number": 2,
+          "date": "2026-11-05",
+          "day_title": "Iconic Landmarks, Ancient Heritage & Scenic Lookouts",
+          "summary": "Enjoy a thoughtfully curated day exploring Paris's highlights, matching your Balanced pace and Fine Dining taste.",
+          "morning": [
+            {
+              "time_slot": "09:00 AM - 12:00 PM",
+              "title": "Mus\u00e9e d'Orsay Impressionist Masterpieces",
+              "description": "Marvel at Monet, Van Gogh, and Degas housed in a magnificent Beaux-Arts railway station.",
+              "location_name": "Mus\u00e9e d'Orsay",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mus\u00e9e+d'Orsay,+Paris",
+              "estimated_cost": 16.0,
+              "category": "Art",
+              "travel_tip": "Stand behind the giant railway clock face on the top floor for an iconic silhouette photo."
+            }
+          ],
+          "afternoon": [
+            {
+              "time_slot": "02:00 PM - 05:00 PM",
+              "title": "Seine River Twilight Cruise",
+              "description": "Glide past illuminated Gothic cathedrals and golden bridges aboard a scenic river boat.",
+              "location_name": "Bateaux Mouches Port",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bateaux+Mouches+Port,+Paris",
+              "estimated_cost": 18.0,
+              "category": "Relaxation",
+              "travel_tip": "Hop on a boat that departs 30 minutes before dusk to catch golden hour & evening illumination."
+            }
+          ],
+          "evening": [
+            {
+              "time_slot": "06:30 PM - 09:30 PM",
+              "title": "Le Marais Historic District & Bakeries",
+              "description": "Explore medieval architecture, boutique fashion, artisan falafel, and top French patisseries.",
+              "location_name": "Place des Vosges",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+des+Vosges,+Paris",
+              "estimated_cost": 12.0,
+              "category": "Food & Culture",
+              "travel_tip": "Stop at L'As du Fallafel for lunch; the line moves very fast."
+            }
+          ],
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "restaurant_name": "Caf\u00e9 Paris Morning Bakery",
+              "cuisine_type": "Artisan Pastries & Fresh Brewed Coffee",
+              "description": "Cozy breakfast spot famous for freshly baked breads and local morning delicacies.",
+              "estimated_cost_per_person": 12.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best+Breakfast+Cafe,+Paris"
+            },
+            {
+              "meal_type": "Lunch",
+              "restaurant_name": "Paris Traditional Kitchen",
+              "cuisine_type": "Fine Dining",
+              "description": "Popular spot curated specifically for Fine Dining lovers with rave local reviews.",
+              "estimated_cost_per_person": 22.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Lunch+Restaurant,+Paris"
+            },
+            {
+              "meal_type": "Dinner",
+              "restaurant_name": "The Heritage Terrace Paris",
+              "cuisine_type": "Regional Gourmet & Wine Pairing",
+              "description": "Atmospheric dinner setting serving farm-to-table seasonal specials and house wines.",
+              "estimated_cost_per_person": 38.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dinner+Dining+Terrace,+Paris"
+            }
+          ],
+          "daily_budget_estimate": 118.0
+        },
+        {
+          "day_number": 3,
+          "date": "2026-11-06",
+          "day_title": "Cultural Deep Dive, Art Galleries & Local Gastronomy",
+          "summary": "Enjoy a thoughtfully curated day exploring Paris's highlights, matching your Balanced pace and Fine Dining taste.",
+          "morning": [
+            {
+              "time_slot": "09:00 AM - 12:00 PM",
+              "title": "Eiffel Tower & Champ de Mars",
+              "description": "Ascend the iconic Iron Lady and relax with a picnic on the expansive lawns below.",
+              "location_name": "Eiffel Tower",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eiffel+Tower,+Paris",
+              "estimated_cost": 30.0,
+              "category": "Sightseeing",
+              "travel_tip": "Book summit elevator tickets exactly 60 days early."
+            }
+          ],
+          "afternoon": [
+            {
+              "time_slot": "02:00 PM - 05:00 PM",
+              "title": "Louvre Museum & Tuileries Garden",
+              "description": "Admire the Mona Lisa, Winged Victory, and Venus de Milo before strolling royal palace gardens.",
+              "location_name": "Mus\u00e9e du Louvre",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mus\u00e9e+du+Louvre,+Paris",
+              "estimated_cost": 22.0,
+              "category": "Art & Culture",
+              "travel_tip": "Enter via the Carrousel du Louvre underground mall entrance for shorter lines."
+            }
+          ],
+          "evening": [
+            {
+              "time_slot": "06:30 PM - 09:30 PM",
+              "title": "Montmartre & Sacr\u00e9-C\u0153ur Basilica",
+              "description": "Wander romantic cobblestone alleys, artist squares, and witness panoramic sunset views over Paris.",
+              "location_name": "Sacr\u00e9-C\u0153ur Basilica",
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sacr\u00e9-C\u0153ur+Basilica,+Paris",
+              "estimated_cost": 0.0,
+              "category": "Culture",
+              "travel_tip": "Watch out for wristband hawkers around the bottom steps; take the funicular."
+            }
+          ],
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "restaurant_name": "Caf\u00e9 Paris Morning Bakery",
+              "cuisine_type": "Artisan Pastries & Fresh Brewed Coffee",
+              "description": "Cozy breakfast spot famous for freshly baked breads and local morning delicacies.",
+              "estimated_cost_per_person": 12.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best+Breakfast+Cafe,+Paris"
+            },
+            {
+              "meal_type": "Lunch",
+              "restaurant_name": "Paris Traditional Kitchen",
+              "cuisine_type": "Fine Dining",
+              "description": "Popular spot curated specifically for Fine Dining lovers with rave local reviews.",
+              "estimated_cost_per_person": 22.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traditional+Lunch+Restaurant,+Paris"
+            },
+            {
+              "meal_type": "Dinner",
+              "restaurant_name": "The Heritage Terrace Paris",
+              "cuisine_type": "Regional Gourmet & Wine Pairing",
+              "description": "Atmospheric dinner setting serving farm-to-table seasonal specials and house wines.",
+              "estimated_cost_per_person": 38.0,
+              "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dinner+Dining+Terrace,+Paris"
+            }
+          ],
+          "daily_budget_estimate": 124.0
+        }
+      ],
+      "budget_breakdown": {
+        "currency": "EUR",
+        "total_budget": 1500.0,
+        "estimated_total_spent": 1269.6,
+        "remaining_balance": 230.4,
+        "categories": [
+          {
+            "category": "Accommodation",
+            "amount": 524.4,
+            "percentage": 38.0,
+            "notes": "Covers 3 nights in recommended Boutique Hotels."
+          },
+          {
+            "category": "Food & Dining",
+            "amount": 358.8,
+            "percentage": 26.0,
+            "notes": "3 meals daily for 1 traveler(s) based on Fine Dining."
+          },
+          {
+            "category": "Activities & Entry Tickets",
+            "amount": 248.4,
+            "percentage": 18.0,
+            "notes": "Admission to main monuments, guided experiences, and exhibits."
+          },
+          {
+            "category": "Local Transit",
+            "amount": 138.0,
+            "percentage": 10.0,
+            "notes": "Metro passes, short rideshares, and transfers (Walking)."
+          },
+          {
+            "category": "Emergency & Souvenir Buffer",
+            "amount": 230.4,
+            "percentage": 8.0,
+            "notes": "Reserved for unexpected expenses, luggage storage, and gifts."
+          }
+        ]
+      },
+      "accommodation_options": [
+        {
+          "name": "Paris Boutique Oasis & Suites",
+          "hotel_type": "Boutique Hotels",
+          "price_tier": "Mid-range",
+          "approx_price_per_night": 174.8,
+          "neighborhood": "Central Arts & Historic District",
+          "highlights": [
+            "Complimentary gourmet breakfast",
+            "Walking distance to metro & attractions",
+            "Rooftop terrace lounge",
+            "Free high-speed WiFi"
+          ],
+          "booking_advice": "Book at least 3 weeks prior to secure complimentary city-view upgrades.",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boutique+Hotel+Center,+Paris"
+        },
+        {
+          "name": "The Grand Heritage Hotel Paris",
+          "hotel_type": "Luxury Hotel & Spa",
+          "price_tier": "Luxury",
+          "approx_price_per_night": 279.68,
+          "neighborhood": "Old Town Royal Avenue",
+          "highlights": [
+            "Full service wellness spa",
+            "Michelin-rated on-site restaurant",
+            "Concierge chauffeur services",
+            "Panoramic suites"
+          ],
+          "booking_advice": "Request an upper-floor room away from street noise for the ultimate tranquil stay.",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Luxury+Hotel+Center,+Paris"
+        },
+        {
+          "name": "Urban Traveler Eco-Lodge & Pods",
+          "hotel_type": "Budget Modern Stays",
+          "price_tier": "Budget",
+          "approx_price_per_night": 96.14,
+          "neighborhood": "Station Transit Hub",
+          "highlights": [
+            "Co-working space",
+            "Modern luggage lockers",
+            "Self-service laundry",
+            "Social communal kitchen"
+          ],
+          "booking_advice": "Great cost-saving option for travelers prioritizing sightseeing over room size.",
+          "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hostel+Eco+Lodge,+Paris"
+        }
+      ],
+      "transportation_options": [
+        {
+          "mode": "City Metro & Subway Pass",
+          "description": "The most efficient way to navigate Paris. Reliable, frequent, and air-conditioned trains connecting all major attractions.",
+          "average_cost": "15 - 25 EUR for a multi-day unlimited pass",
+          "pro_tip": "Download the local transit mobile app to view real-time arrival countdowns and digital ticket scanning."
+        },
+        {
+          "mode": "Bicycle Sharing & Pedestrian Walkways",
+          "description": "Paris's core districts feature dedicated cycling lanes and scenic pedestrian avenues perfect for exploring at your own pace.",
+          "average_cost": "5 - 10 EUR per hour or daily bike rental",
+          "pro_tip": "Look for docked city bikes around public squares; check brake pads and tire pressure before unlocking."
+        },
+        {
+          "mode": "Licensed Taxis & App Rideshares",
+          "description": "Convenient for late evening returns or traveling with heavy luggage between airport/train station and your accommodation.",
+          "average_cost": "10 - 30 EUR per average downtown trip",
+          "pro_tip": "Always verify that the driver starts the official meter or book through authorized apps to prevent overcharging."
+        }
+      ],
+      "travel_tips": {
+        "weather_summary": "Pleasant seasonal temperatures expected in Paris. Mild breezes during evenings with sunny daytime conditions.",
+        "recommended_clothing": [
+          "Breathable moisture-wicking layers for daytime walking",
+          "Light jacket or cardigan for cooler evenings",
+          "Comfortable broken-in walking shoes or supportive sneakers",
+          "Modest attire (covering shoulders and knees) for religious and cultural sites"
+        ],
+        "cultural_etiquette": [
+          "Gaze respect when entering shrines, temples, or historic places of worship.",
+          "Tipping customs: Check your bill before leaving gratuity, as service charges are often included.",
+          "Always ask permission before photographing local market vendors or individual residents.",
+          "Keep voice volume moderate on public transit and quiet residential lanes."
+        ],
+        "safety_and_emergency": [
+          "Keep emergency contacts and embassy address saved offline on your phone.",
+          "Store passport and primary backup credit cards in the hotel room safe; carry digital copies.",
+          "Beware of unsolicited street petitions or distractions in busy tourist plazas.",
+          "Emergency Services Number: Inquire locally (dial 112 in Europe, 911 in North America, 110/119 in Japan)."
+        ],
+        "packing_checklist": [
+          "Universal travel power adapter with surge protection",
+          "Portable power bank (10,000+ mAh) for long sightseeing days",
+          "Refillable insulated water bottle",
+          "Small compact travel umbrella or lightweight rain poncho",
+          "Basic personal medical kit (band-aids, blister pads, pain relievers, allergy medication)"
+        ],
+        "best_apps": [
+          "Google Maps (offline area downloaded)",
+          "Google Translate (with offline camera lens download)",
+          "Local transit navigation app",
+          "XE Currency converter"
+        ]
+      },
+      "ai_generated": false,
+      "ai_provider": "Demo Mode (Realistic Fallback Engine)",
+      "demo_mode": true,
+      "created_at": "2026-10-30T10:27:18.435891Z"
+    },
+    "created_at": "2026-10-30T10:27:18.442528+00:00"
+  }
+}
